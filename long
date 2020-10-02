@@ -1,0 +1,53 @@
+// 1.
+// Dùng toán tử typeof
+// console.log(typeof(a))
+// Loi dat ten: có kí tự đặc biệt, trùng với IIFE (Immediately Invoked Function Expression),bắt đầu bằng số
+// Ví dụ: abc@,1abc,greet
+
+//2.
+//Math.property|method;
+// let r= parseInt(prompt("Nhap ban kinh r"));
+// let area=Math.PI*r*r;
+// console.log("Dien tich hinh tron",area);
+
+//3.
+// let a= parseInt(prompt("Nhập số độ C"));
+// let b= 1.8*a+32;
+// console.log("Số độ F là ", b);
+
+//4.
+// rt(90)
+// for(i=0;i<=2;i++)
+// {
+// fd(90)
+// lt(120)
+// }
+// fd(90)
+// home()
+// penup()
+// lt(90)
+// fd(20)
+// pendown()
+// for(i=0;i<=3;i++)
+// {fd(90)
+// rt(90)}
+// home()
+// penup()
+// rt(90)
+// fd(110)
+// pendown()
+// fd(70)
+// lt(135)
+// fd(99)
+// rt(135)
+// fd(70)
+// rt(135)
+// fd(99)
+// rt(135)
+// fd(70)
+// rt(45)
+// fd(49,5)
+// rt(90)
+// fd(49.5)
+// rt(45)
+// fd(70)
